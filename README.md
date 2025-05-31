@@ -9,7 +9,7 @@ A real-time application that lets you "paint" in the air with the same color as 
 - Uses color detection and contour tracking  
 - Allows freehand drawing via webcam
 
-> 📁 [`Project1/`](./virtual-paint)
+> 📁 [`Virtual-Paint/`](./Project1)
 
 ---
 
@@ -18,7 +18,7 @@ Detects vehicle number plates in live video using Haar Cascades.
 - Triggers a snapshot when a plate is detected  
 - Great for parking/traffic systems
 
-> 📁 [`Project2/`](./numberplate-detection)
+> 📁 [`Numberplate-detection/`](./Project2)
 
 ---
 
@@ -28,7 +28,7 @@ Simulates a real document scanner by detecting edges and applying a perspective 
 - Applies warp transform to generate a scanned version
 - saves the detected number plate
 
-> 📁 [`Project3/`](./document-scanner)
+> 📁 [`Document-scanner/`](./Project3)
 
 ---
 
